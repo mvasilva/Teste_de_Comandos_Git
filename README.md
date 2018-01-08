@@ -1,0 +1,3 @@
+# Teste_de_Comandos_Git
+Esse repositório foi criado para fins de aprendizado dos comandos do Git.
+Aqui seram testados os comandos de add, commit, pull, push e etc...
